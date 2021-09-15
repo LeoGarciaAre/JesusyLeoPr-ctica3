@@ -1,5 +1,5 @@
 let num=0;
-const value=document.querySelector(".value"); //Para agarrar el valor de la clase value
+const value=document.querySelector(".value"); 
 const btns=document.querySelectorAll(".btn");
 var elementoImg = document.getElementById("foto");
 
